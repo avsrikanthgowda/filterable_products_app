@@ -16,4 +16,4 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![Alt text](/public/final_product "Final Product Screenshot")
+![Screenshot from 2023-10-27 19-34-03](https://github.com/avsrikanthgowda/filterable_products_app/assets/16812482/d08b02c4-5863-47a9-a391-8b6fd1d9dac9)
